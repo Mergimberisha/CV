@@ -1,69 +1,60 @@
 ## Mergim Berisha
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+IT professional with a history in all different areas of information technology. A self-motivating, enthusiastic individual accustomed to taking the initiative. A good team player with the determination, focus and drive to do well in anything I set my mind to. A skilled communicator, team player, compassionate and reliable to the needs of others. I pride myself on being punctual and hardworking in every aspect of my life. Developed communication, cooperation, and leadership skills through my various experiences. A candidate ready to utilise my experience in IT to excel in any position.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Excuse** | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and NASA's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
+| **Acebook fire** | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase. | MERN stack, Jest, Cypress |
+| **RuBnB** | | **RuBnB** | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase. | Ruby, HTML, CSS |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sainsbury's** (March 2021 to April 2023)  
+_Head of online deliveries_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Planned significant deployments across several products, ensuring relevant dependencies are identified and managed, including external dependencies.
+- Ensured products were being delivered in accordance with Sainsbury’s Tech Operating Framework and technology principles.
+- Created and maintained roll-out schedules, tracked progress, always ensuring key stakeholders were kept up-to-date and risks & issues were appropriately managed, mitigated and communicated.
+- Spotted and surfaced key risks and issues early.
+- Coached others to help them understand the rationale for a technical approach, surfacing and dealing with ambiguity and conflicting demands.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Alisar Solutions** (start-date to end-date)  
+_Level 4 Software Development Apprenticeship_
 
-- Any experience relevent to software development
+- Designed website prototypes using Adobe XD.
+- Coded websites for clients using HTML, CSS and JavaScript. Uploaded the finished website for the client.
+- Making apps using Cordova.
+- Designing and creating logos for new and upcoming businesses.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I achieved my communication skills while completing my software development Apprenticeship, which involved creating a website using coding knowledge. I further developed these skills when I had to communicate with the clients to meet their conditions. This also meant talking, sprint meetings, MVP and also tickets to create a fully working website with a colleague. This improved my communication skills while working at Makers as teamwork is a major part and without communication, projects would not be completed to the standard expected.
+#### Time Management
 
-#### Another skill
+I achieved time management skills at the Apprenticeship due to us having a deadline for a fully working website for clients. This skill massively improved at Makers as we had independent projects to finish by the end of the week or day. This helped me massively by teaching me how to plan well and go about the project. Meaning tickets could be planned to create an MVP by a specific time and if completed on time or earlier then I would have other ideas which I could add to make the project better and show my knowledge.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Creativity
+My creativity skills improved massively when doing group projects at Makers. When introduced to a group project we would immediately gather in a group to create a board and put all our ideas down. Hearing other people's ideas helped me become more creative as I now had a better understanding of how there are no limits to creativity. In every group project, we had some part of my idea and in some cases, my idea would be used to create the project as it was creative and something unique to create.
 
-#### Another skill
-
+#### Problem-solving
+I love problem-solving situations as it interests me to learn and try to sort out the problem. At Makers, I came past a lot of challenges learning new languages. Doing my research to try and find out what the problem is would help my knowledge and improve my independent skills. When working on a group project which was set by makers we came across a huge problem which affected all of our work, when merging our work all of our tests would fail. I took the initiative to try and find out what the problem was, After thorough research, I came across a similar problem which wouldn't solve our issues but using the same knowledge as that person and using mine I finally managed to add a code to all the tests and they all passed which was an amazing relief.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (March 2023 to July 2023)
+- Completed a 16-week intensive coding bootcamp focused on full-stack software engineering
+- Completed individual projects, pair programming and group projects
+- Created projects using Javascript, Ruby, PostgreSQL, MERN and React Native
+- Used Github for paired work to create a working project which also included daily stand-ups, retros every other day, tickets daily, sprints and MVP
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Quintin Kynaston Academy School (start_date to end_date)
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team# CV
+- BTEC IT - Grade: Distinction
+- BTEC Business - Grade: Distinction
+- Media Studies A Level - Grade: B
