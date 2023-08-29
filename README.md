@@ -8,7 +8,7 @@ IT professional with a history in all different areas of information technology.
 | ---------------------------- | ----------------- | ----------------- |
 | **Excuse** | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and NASA's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
 | **Acebook fire** | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase. | MERN stack, Jest, Cypress |
-| **RuBnB** | | **RuBnB** | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase. | Ruby, HTML, CSS |
+<!-- | **RuBnB** |  | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase. | Ruby, HTML, CSS | -->
 
 ## Work Experience
 
